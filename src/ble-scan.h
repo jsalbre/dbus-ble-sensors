@@ -3,7 +3,7 @@
 
 #define MFG_ID_NORDIC	0x0059
 #define MFG_ID_RUUVI	0x0499
-#define MFG_ID_GOVEE  0xA4C1
+#define MFG_ID_GOVEE	0xA4C1
 
 int ble_scan_open(void);
 void ble_scan_continuous(int cont);
